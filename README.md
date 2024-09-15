@@ -98,7 +98,7 @@ The results demonstrate that attention mechanisms are a valuable addition to dee
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhi2024vlg/StegaVision
+git clone https://github.com/vlgiitr/StegaVision.git
 
 # Install dependencies
 pip install -r requirements.txt
