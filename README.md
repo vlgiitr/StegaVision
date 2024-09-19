@@ -29,7 +29,7 @@ The choice of this autoencoder architecture as our baseline was driven by its ef
 - Dynamic adjustment of image feature importance
 - Improved embedding quality and visual fidelity
 
-## 🧠 Motivation
+##  Motivation
 
 The challenges in image steganography, such as optimizing the quality of stego images and ensuring precise message extraction, highlight the need for more advanced techniques that can overcome the limitations of traditional models. In response to these challenges, our project, **StegaVision** ,explores the integration of attention mechanisms into the steganographic process. 
 
